@@ -1,6 +1,6 @@
 <template>
   <div>
-    <table-page></table-page>
+    <calendar></calendar>
   </div>
 </template>
 <script>
