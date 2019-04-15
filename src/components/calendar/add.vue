@@ -1,6 +1,6 @@
 <template>
     <el-dialog
-        title="添加待办事项"
+        title="待办事项"
         center
         :show-close = 'false'
         :visible.sync = "isAdd"
