@@ -7,6 +7,7 @@ npm i vue-full-calendar
 
 
 
+
 引入：
 
 import FullCalendar from 'vue-full-calendar' //全局
@@ -15,9 +16,11 @@ Vue.use(FullCalendar)
 
 
 
+
 import { FullCalendar } from 'vue-full-calendar' //单页
 
 import 'fullcalendar/dist/fullcalendar.css'
+
 
 
 
