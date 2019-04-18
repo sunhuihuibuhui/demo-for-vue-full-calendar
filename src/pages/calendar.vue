@@ -16,8 +16,9 @@
 </template>
 <script>
 import { FullCalendar } from 'vue-full-calendar'
-import addSchedule from '@/components/calendar/add.vue'
 import 'fullcalendar/dist/fullcalendar.css'
+import addSchedule from '@/components/calendar/add.vue'
+
 export default {
    data () {
     return {
@@ -56,7 +57,8 @@ export default {
   components : { FullCalendar, addSchedule },
   methods:{
     changeDate(){
-      this.$refs.calendar.fireMethod('gotoDate', this.selectDate)
+      // this.$refs.calendar.fireMethod('gotoDate', this.selectDate)
+      this.$refs.calendar.fireMethod('prev');
     },
     eventClick(event){ //events的点击事件
       this.editItem = event
