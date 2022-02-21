@@ -48,7 +48,7 @@ import 'fullcalendar/dist/fullcalendar.css'
 
 4.15更新
 
-因为有人问到新建，就把添加和编辑也加上了。这周要加班，月底要搬家，不知道最近还有没有时间完善，所以先把这个及其简陋的放上来。不对之处，还望不吝赐教，帮助我这个小菜鸟进步，十分感谢
+新建的添加和编辑也加上了
 
 
 api参考：https://www.helloweba.net/javascript/445.html
