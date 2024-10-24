@@ -14,7 +14,7 @@
     "jquery": "^3.3.1",
     "lunar-calendar": "^0.1.4",
     "moment": "^2.23.0",
-    "vue": "^2.5.2",
+    "vue": "^3.0.0",
     "vue-calendar-component": "^2.7.4",
     "vue-full-calendar": "^2.7.0",
     "vue-fullcalendar": "^1.0.9",
